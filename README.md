@@ -1,3 +1,7 @@
+## RUN PROJECT
+
+bundle exec jekyll serve -H 0.0.0.0
+
 # Jekyll Theme - Mundana by WowThemes.net
 
 [Live Demo](https://wowthemesnet.github.io/mundana-theme-jekyll/) &nbsp; | &nbsp; 
